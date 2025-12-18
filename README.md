@@ -53,12 +53,6 @@ Predict the gesture in real time
 
 Display prediction on screen
 
-🚀 Running the Project
-git clone https://github.com/arwaBENCH/rock-paper-scissors-detector-
-cd rock-paper-scissors-detector-
-pip install -r requirements.txt
-python main.py
-
 Make sure your webcam is connected before running the script.
 
 🔜 Future Work
